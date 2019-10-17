@@ -1,8 +1,32 @@
-.container{
+.sidenav {
   float: right;
   width: 400px;
 }
 
 #bold {
   font-weight: bold;
+}
+
+#sidebar {
+  float: left;
+
+}
+
+#green {
+  background-color: #e6ffe6;
+  width: auto;
+  height: auto;
+  margin: auto;
+}
+
+#blue {
+background-color: #e6ffff;
+width: auto;
+height: auto;
+margin: auto;
+
+}
+
+#header {
+  margin-left: 200px;
 }
