@@ -30,3 +30,46 @@ margin: auto;
 #header {
   margin-left: 200px;
 }
+
+#Hannah {
+  float: right;
+  padding: 4px;
+
+}
+
+#Battle {
+  float: left;
+  padding-right: 6px;
+}
+
+.inline li:after {
+  content: " • ";
+  font-weight: bold;
+}
+
+.inline li {
+  display: inline;
+
+}
+
+.inline {
+  text-align: right;
+}
+
+#purple {
+  background-color: lavender;
+  width: 70%;
+  height: auto;
+  margin: auto;
+}
+
+#grape {
+  background-color: #e0b3ff;
+}
+
+#locust {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
